@@ -63,7 +63,7 @@ plot3d_data_and_decision_function(X_train_sc, y_train, Weights, bias)
 
 # Training a neural network using the MLPClassifier model from sklearn library
 
-## Train a MLPClassifier model and testing it using the following configurations:
+## Train a MLPClassifier model and test it using the following configurations:
 
 a. Activation function=‘tanh’, hidden_layer_sizes=(1), learning_rate_init=0.01, momentum=0, max_iter=200 (default)
 
